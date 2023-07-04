@@ -1,0 +1,2 @@
+fault_location 6
+fault_type 0
