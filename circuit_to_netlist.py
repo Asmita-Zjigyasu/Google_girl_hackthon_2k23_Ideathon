@@ -1,7 +1,7 @@
 import sys
 import os
 
-h = open('netlist2.txt', 'r')
+h = open('input_netlist.txt', 'r')
 f = open("final_netlist.txt", 'w')
 f1 = open("fault.txt", 'w')  
 # Dictionary for mapping operators
